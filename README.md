@@ -23,16 +23,4 @@ OCR，识别提取pdf文件当中的文字。要求如下：
 
 切记，下面这里是至关重要的要求和标准，务必满足：在同一页面内，同一词条中的相关释义文字要编辑合并在一个自然段落里，不可像图中那样因为版面限制而断开分行。
 
-下面是一些识别结果的示例文本，供参考：
-
-【auf.ra.gen】 (hat) 〔Vi〕 (不及物) etw. ragt auf etw. ragt in die Höhe(物作主语)耸立,突起
-
-【auf.rap.peln, sich】 (hat) 〔Vr〕(反身) gespr[口]1. sich a. mühsam aufstehen吃力地站起来〈sich nach e-m Sturz a. 摔跤后吃力地站起来〉2. sich wieder a. sich nach e-r Krankheit langsam erholen 恢复健康,康复 3. sich zu etw. a. sich zu etw. aufraffen (3)強打精神去做 || NB(注意):ich rapple mich auf 我振作起来(打起精神)
-
-【auf.rau.en】 [-rauən]; raute auf, hat aufgeraut; 〔Vt〕(及物) etw. a. etw. rau machen 使(表面)粗糙:aufgeraute Hände haben 有一双皮肤粗糙的手
-
-【aufräumen】 (hat) 〔Vt/i〕(及物/不及物)1.(etw.) a. herumliegende Dinge an ihren Platz bringen, um Ordnung zu schaffen整理,收拾: den Schreibtisch a.收拾书桌; 〔Vi〕(不及物)2. mit etw. a. die Existenz od. Verbreitung von Vorurteilen, Einstellungen o. Ä. beenden 清除,消除,放弃:Moderne Wissenschaftler räumen mit altmodischen Ansichten auf 当代科学家放弃过时的观点 3. unter 〈Personen人(Dat)三格〉a. gespr[口]; mehrere Personen e-r Gruppe (von mst Kriminellen) töten od. verhaften:肃清,清洗(多用于罪犯) Die Soldaten hatten unter den Rebellen gründlich aufgeräumt 士兵彻底肃清了反叛者
-
-【auf.rech.nen】 (hat) 〔Vt〕 (及物) etw. mit/gegen etw. a. Dinge miteinander vergleichen u. den Unterschied festlegen用……平衡,抵消,抵账 〈Konten, Summen, Schulden gegeneinander a.平衡账目,结清款项,相互抵消债务〉:Als die Forderungen gegeneinander aufgerechnet wurden, blieb nichts übrig 债务相互结清,没留任何尾巴
-
 """
