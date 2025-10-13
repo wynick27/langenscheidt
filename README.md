@@ -1,7 +1,9 @@
 ## Langenscheidt
 
 朗氏德汉双解大词典 文本
-```
+
+<hr>
+
 model_name = "gemini-2.5-pro"
 
 system_instruction = """
@@ -34,4 +36,3 @@ OCR，识别提取pdf文件当中的文字。要求如下：
 【auf.rech.nen】 (hat) 〔Vt〕 (及物) etw. mit/gegen etw. a. Dinge miteinander vergleichen u. den Unterschied festlegen用……平衡,抵消,抵账 〈Konten, Summen, Schulden gegeneinander a.平衡账目,结清款项,相互抵消债务〉:Als die Forderungen gegeneinander aufgerechnet wurden, blieb nichts übrig 债务相互结清,没留任何尾巴
 
 """
-```
